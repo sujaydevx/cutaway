@@ -4,7 +4,7 @@
 
 Cutaway reads a model's published files and draws what is inside: every layer, the tensor shape at every step, where the parameters live, how much memory it needs, and how it differs from other models. No downloads, no account, no server.
 
-**Live:** https://YOUR-URL.vercel.app
+**Live:** https://cutaway-sigma.vercel.app
 
 ![Walking a token through DeepSeek-V3's mixture-of-experts block](docs/walkthrough.png)
 
